@@ -14,5 +14,5 @@
     ".expo/types/**/*.ts",
     "expo-env.d.ts",
     "nativewind-env.d.ts"
-  ]
+, "hooks/useThemeColor.js", "hooks/useColorScheme.js", "hooks/useColorScheme.web.js", "components/__tests__/ThemedText-test.jsx"  ]
 }

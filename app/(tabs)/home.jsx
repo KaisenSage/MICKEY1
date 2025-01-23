@@ -6,6 +6,7 @@ import { images } from '../../constants'; // Adjust relative path to match actua
 import SearchInput from '../components/SearchInput'; // Adjust the path to where SearchInput is located
 import Trending from '../components/Trending'
 import EmptyState from '../components/EmptyState';
+
 const Home = () => {
   return (
     <SafeAreaView style={{ flex: 1, backgroundColor: '#1E1E2C' }}>
